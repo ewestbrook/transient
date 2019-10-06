@@ -1,0 +1,1 @@
+../eew/ewbuild/magit-transient.el/ewbuild.sh
