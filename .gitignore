@@ -13,3 +13,6 @@
 # For ELPA:
 /*-autoloads.el
 /*-pkg.el
+
+/docs/*.info
+*.elc
