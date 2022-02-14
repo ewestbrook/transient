@@ -37,19 +37,7 @@ but suffix commands can also be configured to not exit the transient.
 #+TEXINFO: @noindent
 This manual is for Transient version 0.3.7.
 
-#+BEGIN_QUOTE
-Copyright (C) 2018-2021 Jonas Bernoulli <jonas@bernoul.li>
-
-You can redistribute this document and/or modify it under the terms
-of the GNU General Public License as published by the Free Software
-Foundation, either version 3 of the License, or (at your option) any
-later version.
-
-This document is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-General Public License for more details.
-#+END_QUOTE
+#+texinfo: @insertcopying
 :END:
 * Introduction
 
@@ -2121,13 +2109,13 @@ necessary changes.  See its doc string for more information.
 :INDEX:      vr
 :END:
 
-* _ Copying
+* COPYING
 :PROPERTIES:
 :COPYING:    t
 :END:
 
 #+BEGIN_QUOTE
-Copyright (C) 2018-2021 Jonas Bernoulli <jonas@bernoul.li>
+Copyright (C) 2018-2021 Free Software Foundation, Inc.
 
 You can redistribute this document and/or modify it under the terms
 of the GNU General Public License as published by the Free Software
