@@ -82,6 +82,7 @@ This manual is for Transient version 0.3.7.
 * Command Index::
 * Function Index::
 * Variable Index::
+* GNU General Public License::
 
 @detailmenu
 --- The Detailed Node Listing ---
@@ -2558,5 +2559,10 @@ necessary changes.  See its doc string for more information.
 @appendix Variable Index
 
 @printindex vr
+
+@node GNU General Public License
+@appendix GNU General Public License
+
+@include gpl.texi
 
 @bye

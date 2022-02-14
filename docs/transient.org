@@ -2108,7 +2108,11 @@ necessary changes.  See its doc string for more information.
 :APPENDIX:   t
 :INDEX:      vr
 :END:
-
+* GNU General Public License
+:PROPERTIES:
+:APPENDIX:   t
+:END:
+#+texinfo: @include gpl.texi
 * COPYING
 :PROPERTIES:
 :COPYING:    t
