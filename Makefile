@@ -56,3 +56,9 @@ clean:
 	@printf "Cleaning...\n"
 	@$(MAKE) -C lisp clean
 	@$(MAKE) -C docs clean
+
+import-manual:
+	@cp -v ~/git/src/emacs/emacs-28/doc/misc/transient.texi docs/transient.texi
+
+export-manual:
+	@cp -v docs/transient.texi ~/git/src/emacs/emacs-28/doc/misc/transient.texi
