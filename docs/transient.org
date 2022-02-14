@@ -13,8 +13,6 @@
 #+TEXINFO_DEFFN: t
 #+OPTIONS: H:4 num:4 toc:2
 #+PROPERTY: header-args :eval never
-#+BIND: ox-texinfo+-before-export-hook ox-texinfo+-update-copyright-years
-#+BIND: ox-texinfo+-before-export-hook ox-texinfo+-update-version-strings
 
 Taking inspiration from prefix keys and prefix arguments, Transient
 implements a similar abstraction involving a prefix command, infix
